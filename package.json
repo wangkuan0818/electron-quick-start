@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/wangkuan0818/electron-quick-start.git",
   "keywords": [
     "Electron",
     "quick",
